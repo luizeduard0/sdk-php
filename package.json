@@ -1,0 +1,9 @@
+{
+  "name": "maxipago/php-sdk",
+  "type": "library",
+  "description": "Maxi Pago PHP SDK",
+  "keywords": [],
+  "homepage": "https://www.maxipago.com/",
+  "license": "MIT",
+  "authors": []
+}
